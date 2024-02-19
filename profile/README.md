@@ -6,6 +6,8 @@
 * [Skin Combo Bot](https://github.com/ChroniclesOfTheRedeemed/skin-combo-bot)
 * [Remyuuti](https://github.com/ChroniclesOfTheRedeemed/remyuuti)
 * [TFT Tournamentier](https://github.com/ChroniclesOfTheRedeemed/DiscordTFT-Tournamentier)
+* [LoR Review](https://github.com/ChroniclesOfTheRedeemed/LOR-Review)
+* [TFT Scouter](https://github.com/ChroniclesOfTheRedeemed/TFT-Scouter)
 
 ### Riot Games API Spring Boot and Components
 * [Spring Boot Server](https://github.com/ChroniclesOfTheRedeemed/RiotApiSpringBoot)
