@@ -12,6 +12,7 @@
 ### Riot Games API Spring Boot and Components
 * [Spring Boot Server](https://github.com/ChroniclesOfTheRedeemed/RiotApiSpringBoot)
 * [ReactConsumer](https://github.com/ChroniclesOfTheRedeemed/RiotApi-ReactConsumer)
+* [discord leaderboard](https://github.com/ChroniclesOfTheRedeemed/RiotApi-DiscordConsumer)
 ## VierGewinnt
 
 ### School Project
